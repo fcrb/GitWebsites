@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd ~/Documents/GitWebsites/freya.phamf.org
+python -mSimpleHTTPServer
